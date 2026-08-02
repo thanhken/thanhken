@@ -41,6 +41,22 @@ Off the clock I've been a **BBoy since 2010**. Never went pro, never stopped eit
 
 ---
 
+## <img src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/icons/package.svg" height="21" alt=""> Things I've made
+
+<!-- Card grid. To add a project: copy assets/cards/cloudtunnel.svg, edit its text,
+     then add another <a> on the NEXT LINE below — no blank line between anchors.
+     A blank line splits them into separate paragraphs and the cards stack instead
+     of pairing. At 49% wide they sit two per row and wrap on their own. -->
+
+<a href="https://github.com/thanhken/cloudtunnel"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/cloudtunnel.svg" alt="cloudtunnel — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js."></a>
+
+<!-- Live version, so a publish updates it here without touching the card SVG. -->
+[![cloudtunnel on npm](https://img.shields.io/npm/v/@iamken/cloudtunnel?style=flat-square&label=cloudtunnel&labelColor=22262C&color=22262C&logo=npm&logoColor=4493F8)](https://www.npmjs.com/package/@iamken/cloudtunnel)
+
+Each one started as something I needed and couldn't find.
+
+---
+
 ## <img src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/icons/code.svg" height="21" alt=""> Stack
 
 **Languages**
@@ -82,19 +98,6 @@ Off the clock I've been a **BBoy since 2010**. Never went pro, never stopped eit
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-22262C?style=flat-square&logo=cloudflare&logoColor=4493F8)
 ![Figma](https://img.shields.io/badge/Figma-22262C?style=flat-square&logo=figma&logoColor=4493F8)
 ![Illustrator](https://img.shields.io/badge/Illustrator-22262C?style=flat-square)
-
----
-
-## <img src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/icons/package.svg" height="21" alt=""> Things I've made
-
-<!-- Card grid. To add a project: copy assets/cards/cloudtunnel.svg, edit its text,
-     then add another <a> on the NEXT LINE below — no blank line between anchors.
-     A blank line splits them into separate paragraphs and the cards stack instead
-     of pairing. At 49% wide they sit two per row and wrap on their own. -->
-
-<a href="https://github.com/thanhken/cloudtunnel"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/cloudtunnel.svg" alt="cloudtunnel — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js."></a>
-
-Each one started as something I needed and couldn't find.
 
 ---
 
