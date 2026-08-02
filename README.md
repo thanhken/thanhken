@@ -45,42 +45,42 @@ Off the clock I've been a **BBoy since 2010**. Never went pro, never stopped eit
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-22262C?style=flat-square&logo=typescript&logoColor=F05B42)
-![JavaScript](https://img.shields.io/badge/JavaScript-22262C?style=flat-square&logo=javascript&logoColor=F05B42)
-![Swift](https://img.shields.io/badge/Swift-22262C?style=flat-square&logo=swift&logoColor=F05B42)
-![Objective-C](https://img.shields.io/badge/Objective--C-22262C?style=flat-square&logo=apple&logoColor=F05B42)
-![Dart](https://img.shields.io/badge/Dart-22262C?style=flat-square&logo=dart&logoColor=F05B42)
-![Java](https://img.shields.io/badge/Java-22262C?style=flat-square&logo=openjdk&logoColor=F05B42)
-![Python](https://img.shields.io/badge/Python-22262C?style=flat-square&logo=python&logoColor=F05B42)
-![Bash](https://img.shields.io/badge/Bash-22262C?style=flat-square&logo=gnubash&logoColor=F05B42)
+![TypeScript](https://img.shields.io/badge/TypeScript-22262C?style=flat-square&logo=typescript&logoColor=A39189)
+![JavaScript](https://img.shields.io/badge/JavaScript-22262C?style=flat-square&logo=javascript&logoColor=A39189)
+![Swift](https://img.shields.io/badge/Swift-22262C?style=flat-square&logo=swift&logoColor=A39189)
+![Objective-C](https://img.shields.io/badge/Objective--C-22262C?style=flat-square&logo=apple&logoColor=A39189)
+![Dart](https://img.shields.io/badge/Dart-22262C?style=flat-square&logo=dart&logoColor=A39189)
+![Java](https://img.shields.io/badge/Java-22262C?style=flat-square&logo=openjdk&logoColor=A39189)
+![Python](https://img.shields.io/badge/Python-22262C?style=flat-square&logo=python&logoColor=A39189)
+![Bash](https://img.shields.io/badge/Bash-22262C?style=flat-square&logo=gnubash&logoColor=A39189)
 
 **Frameworks & libraries**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-22262C?style=flat-square&logo=vuedotjs&logoColor=F05B42)
-![Nuxt](https://img.shields.io/badge/Nuxt-22262C?style=flat-square&logo=nuxt&logoColor=F05B42)
-![Flutter](https://img.shields.io/badge/Flutter-22262C?style=flat-square&logo=flutter&logoColor=F05B42)
-![React Native](https://img.shields.io/badge/React_Native-22262C?style=flat-square&logo=react&logoColor=F05B42)
-![NestJS](https://img.shields.io/badge/NestJS-22262C?style=flat-square&logo=nestjs&logoColor=F05B42)
-![Express](https://img.shields.io/badge/Express-22262C?style=flat-square&logo=express&logoColor=F05B42)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-22262C?style=flat-square&logo=tailwindcss&logoColor=F05B42)
-![Tauri](https://img.shields.io/badge/Tauri-22262C?style=flat-square&logo=tauri&logoColor=F05B42)
+![Vue.js](https://img.shields.io/badge/Vue.js-22262C?style=flat-square&logo=vuedotjs&logoColor=A39189)
+![Nuxt](https://img.shields.io/badge/Nuxt-22262C?style=flat-square&logo=nuxt&logoColor=A39189)
+![Flutter](https://img.shields.io/badge/Flutter-22262C?style=flat-square&logo=flutter&logoColor=A39189)
+![React Native](https://img.shields.io/badge/React_Native-22262C?style=flat-square&logo=react&logoColor=A39189)
+![NestJS](https://img.shields.io/badge/NestJS-22262C?style=flat-square&logo=nestjs&logoColor=A39189)
+![Express](https://img.shields.io/badge/Express-22262C?style=flat-square&logo=express&logoColor=A39189)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-22262C?style=flat-square&logo=tailwindcss&logoColor=A39189)
+![Tauri](https://img.shields.io/badge/Tauri-22262C?style=flat-square&logo=tauri&logoColor=A39189)
 
 **Data**
 
-![MySQL](https://img.shields.io/badge/MySQL-22262C?style=flat-square&logo=mysql&logoColor=F05B42)
+![MySQL](https://img.shields.io/badge/MySQL-22262C?style=flat-square&logo=mysql&logoColor=A39189)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-22262C?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-22262C?style=flat-square&logo=mongodb&logoColor=F05B42)
-![Redis](https://img.shields.io/badge/Redis-22262C?style=flat-square&logo=redis&logoColor=F05B42)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-22262C?style=flat-square&logo=elasticsearch&logoColor=F05B42)
-![Firebase](https://img.shields.io/badge/Firebase-22262C?style=flat-square&logo=firebase&logoColor=F05B42)
+![MongoDB](https://img.shields.io/badge/MongoDB-22262C?style=flat-square&logo=mongodb&logoColor=A39189)
+![Redis](https://img.shields.io/badge/Redis-22262C?style=flat-square&logo=redis&logoColor=A39189)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-22262C?style=flat-square&logo=elasticsearch&logoColor=A39189)
+![Firebase](https://img.shields.io/badge/Firebase-22262C?style=flat-square&logo=firebase&logoColor=A39189)
 
 **Infra & design**
 
-![Docker](https://img.shields.io/badge/Docker-22262C?style=flat-square&logo=docker&logoColor=F05B42)
-![NGINX](https://img.shields.io/badge/NGINX-22262C?style=flat-square&logo=nginx&logoColor=F05B42)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-22262C?style=flat-square&logo=googlecloud&logoColor=F05B42)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-22262C?style=flat-square&logo=cloudflare&logoColor=F05B42)
-![Figma](https://img.shields.io/badge/Figma-22262C?style=flat-square&logo=figma&logoColor=F05B42)
+![Docker](https://img.shields.io/badge/Docker-22262C?style=flat-square&logo=docker&logoColor=A39189)
+![NGINX](https://img.shields.io/badge/NGINX-22262C?style=flat-square&logo=nginx&logoColor=A39189)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-22262C?style=flat-square&logo=googlecloud&logoColor=A39189)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-22262C?style=flat-square&logo=cloudflare&logoColor=A39189)
+![Figma](https://img.shields.io/badge/Figma-22262C?style=flat-square&logo=figma&logoColor=A39189)
 ![Illustrator](https://img.shields.io/badge/Illustrator-22262C?style=flat-square)
 
 ---
@@ -95,9 +95,9 @@ Instant, self-owned tunnel sharing. The tunnel and the DNS record both live in *
 account, so you keep clean, stable URLs and full control — no third party sitting between your
 machine and the people you're sharing with.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-22262C?style=flat-square&logo=typescript&logoColor=F05B42)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-22262C?style=flat-square&logo=cloudflare&logoColor=F05B42)
-![Node.js](https://img.shields.io/badge/Node.js-22262C?style=flat-square&logo=nodedotjs&logoColor=F05B42)
+![TypeScript](https://img.shields.io/badge/TypeScript-22262C?style=flat-square&logo=typescript&logoColor=A39189)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-22262C?style=flat-square&logo=cloudflare&logoColor=A39189)
+![Node.js](https://img.shields.io/badge/Node.js-22262C?style=flat-square&logo=nodedotjs&logoColor=A39189)
 
 ---
 
