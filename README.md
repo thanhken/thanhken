@@ -87,17 +87,14 @@ Off the clock I've been a **BBoy since 2010**. Never went pro, never stopped eit
 
 ## <img src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/icons/package.svg" height="21" alt=""> Things I've made
 
-### [cloudtunnel](https://github.com/thanhken/cloudtunnel)
+<!-- Card grid. To add a project: copy assets/cards/cloudtunnel.svg, edit its text,
+     then add another <a> on the NEXT LINE below — no blank line between anchors.
+     A blank line splits them into separate paragraphs and the cards stack instead
+     of pairing. At 49% wide they sit two per row and wrap on their own. -->
 
-**Expose any local port at a public HTTPS subdomain — on _your own_ Cloudflare domains.**
+<a href="https://github.com/thanhken/cloudtunnel"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/cloudtunnel.svg" alt="cloudtunnel — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js."></a>
 
-Instant, self-owned tunnel sharing. The tunnel and the DNS record both live in *your* Cloudflare
-account, so you keep clean, stable URLs and full control — no third party sitting between your
-machine and the people you're sharing with.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-22262C?style=flat-square&logo=typescript&logoColor=4493F8)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-22262C?style=flat-square&logo=cloudflare&logoColor=4493F8)
-![Node.js](https://img.shields.io/badge/Node.js-22262C?style=flat-square&logo=nodedotjs&logoColor=4493F8)
+Each one started as something I needed and couldn't find.
 
 ---
 

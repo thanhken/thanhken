@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 156" width="440" height="156" role="img" aria-label="cloudtunnel — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js.">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F9A622"/>
+      <stop offset="50%" stop-color="#F05B42"/>
+      <stop offset="100%" stop-color="#EE3F5C"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="440" height="156" rx="10"/></clipPath>
+  </defs>
+
+  <!-- Dark card on both GitHub themes, matching the badge chips. -->
+  <g clip-path="url(#card)">
+    <rect width="440" height="156" fill="#1B1F24"/>
+    <rect width="5" height="156" fill="url(#brand)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="155" rx="10" fill="none" stroke="#30363D"/>
+
+  <!-- Repo glyph, same 24x24 stroke language as the section icons. -->
+  <g transform="translate(26 26) scale(0.75)" fill="none" stroke="#F05B42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 2 21 7v10l-9 5-9-5V7z"/><path d="M3 7l9 5 9-5"/><path d="M12 12v10"/>
+  </g>
+
+  <text x="56" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="700" fill="#E6EDF3">cloudtunnel</text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">
+    <text x="26" y="76">Expose any local port at a public HTTPS subdomain</text>
+    <text x="26" y="96">&#8212; on your own Cloudflare domains.</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681">
+    <circle cx="31" cy="126" r="5" fill="#4493F8"/>
+    <text x="43" y="130">TypeScript</text>
+    <circle cx="131" cy="126" r="5" fill="#4493F8"/>
+    <text x="143" y="130">Cloudflare</text>
+    <circle cx="231" cy="126" r="5" fill="#4493F8"/>
+    <text x="243" y="130">Node.js</text>
+  </g>
+</svg>
