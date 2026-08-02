@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F9A622"/>
+      <stop offset="50%" stop-color="#F05B42"/>
+      <stop offset="100%" stop-color="#EE3F5C"/>
+    </linearGradient>
+  </defs>
+  <!-- Transparent background: one file reads correctly on both GitHub themes. -->
+  <path d="M0,78 C160,38 360,116 600,80 C840,44 1050,114 1200,76 L1200,120 L0,120 Z" fill="url(#brand)" opacity="0.14"/>
+  <path d="M0,68 C160,28 360,106 600,70 C840,34 1050,104 1200,66 L1200,120 L0,120 Z" fill="url(#brand)" opacity="0.24"/>
+  <path d="M0,68 C160,28 360,106 600,70 C840,34 1050,104 1200,66" fill="none" stroke="url(#brand)" stroke-width="3"/>
+</svg>
