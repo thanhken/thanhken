@@ -50,7 +50,7 @@ Off the clock I've been a **BBoy since 2010**. Never went pro, never stopped eit
      The version pill inside each card is plain SVG text: bump it there on release. -->
 
 <a href="https://github.com/thanhken/cloudtunnel"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/cloudtunnel.svg" alt="cloudtunnel v0.5.0 — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js."></a>
-<a href="https://gitlunex.iamken.work"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/gitlunex.svg" alt="GitLunex v1.0.0 — cross-platform local Git GUI with commit graph, embedded terminal and tabbed repo workspace. Tauri, React, TypeScript."></a>
+<a href="https://gitlunex.iamken.work"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/gitlunex.svg" alt="GitLunex v1.1.0 — cross-platform local Git GUI with commit graph, embedded terminal and tabbed repo workspace. Tauri, React, TypeScript."></a>
 
 Each one started as something I needed and couldn't find.
 
