@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 156" width="440" height="156" role="img" aria-label="cloudtunnel v0.5.0 — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 156" width="440" height="156" role="img" aria-label="GitLunex v1.0.0 — lightweight cross-platform Git GUI with commit graph, embedded terminal and tabbed repo workspace. Tauri, React, TypeScript.">
   <defs>
     <linearGradient id="brand" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#F9A622"/>
@@ -21,24 +21,24 @@
   </g>
 
   <text x="56" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-        font-size="19" font-weight="700" fill="#E6EDF3">cloudtunnel</text>
+        font-size="19" font-weight="700" fill="#E6EDF3">GitLunex</text>
 
   <!-- Version pill. Static: bump this on release (see README comment). -->
   <rect x="352" y="20" width="62" height="22" rx="11" fill="#22262C" stroke="#30363D"/>
   <text x="383" y="35" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-        font-size="12" fill="#8B949E">v0.5.0</text>
+        font-size="12" fill="#8B949E">v1.0.0</text>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">
-    <text x="26" y="76">Expose any local port at a public HTTPS subdomain</text>
-    <text x="26" y="96">&#8212; on your own Cloudflare domains.</text>
+    <text x="26" y="76">Cross-platform local Git GUI &#8212; commit graph,</text>
+    <text x="26" y="96">embedded terminal, tabbed repo workspace.</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6E7681">
     <circle cx="31" cy="126" r="5" fill="#4493F8"/>
-    <text x="43" y="130">TypeScript</text>
-    <circle cx="131" cy="126" r="5" fill="#4493F8"/>
-    <text x="143" y="130">Cloudflare</text>
-    <circle cx="231" cy="126" r="5" fill="#4493F8"/>
-    <text x="243" y="130">Node.js</text>
+    <text x="43" y="130">Tauri</text>
+    <circle cx="106" cy="126" r="5" fill="#4493F8"/>
+    <text x="118" y="130">React</text>
+    <circle cx="186" cy="126" r="5" fill="#4493F8"/>
+    <text x="198" y="130">TypeScript</text>
   </g>
 </svg>

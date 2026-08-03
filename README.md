@@ -43,15 +43,14 @@ Off the clock I've been a **BBoy since 2010**. Never went pro, never stopped eit
 
 ## <img src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/icons/package.svg" height="21" alt=""> Things I've made
 
-<!-- Card grid. To add a project: copy assets/cards/cloudtunnel.svg, edit its text,
-     then add another <a> on the NEXT LINE below — no blank line between anchors.
-     A blank line splits them into separate paragraphs and the cards stack instead
-     of pairing. At 49% wide they sit two per row and wrap on their own. -->
+<!-- Card grid. To add a project: copy a card in assets/cards/, edit its text, then
+     add another <a> on the NEXT LINE below — no blank line between anchors. A blank
+     line splits them into separate paragraphs and the cards stack instead of pairing.
+     At 49% wide they sit two per row and wrap on their own.
+     The version pill inside each card is plain SVG text: bump it there on release. -->
 
-<a href="https://github.com/thanhken/cloudtunnel"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/cloudtunnel.svg" alt="cloudtunnel — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js."></a>
-
-<!-- Live version, so a publish updates it here without touching the card SVG. -->
-[![cloudtunnel on npm](https://img.shields.io/npm/v/@iamken/cloudtunnel?style=flat-square&label=cloudtunnel&labelColor=22262C&color=22262C&logo=npm&logoColor=4493F8)](https://www.npmjs.com/package/@iamken/cloudtunnel)
+<a href="https://github.com/thanhken/cloudtunnel"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/cloudtunnel.svg" alt="cloudtunnel v0.5.0 — expose any local port at a public HTTPS subdomain on your own Cloudflare domains. TypeScript, Cloudflare, Node.js."></a>
+<a href="https://gitlunex.iamken.work"><img width="49%" src="https://raw.githubusercontent.com/thanhken/thanhken/main/assets/cards/gitlunex.svg" alt="GitLunex v1.0.0 — cross-platform local Git GUI with commit graph, embedded terminal and tabbed repo workspace. Tauri, React, TypeScript."></a>
 
 Each one started as something I needed and couldn't find.
 
